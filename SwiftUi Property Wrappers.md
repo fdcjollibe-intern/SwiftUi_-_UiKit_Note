@@ -27,7 +27,7 @@ Used when: - You want shared data - You want one source of truth
 
 ------------------------------------------------------------------------
 
-## @State
+# @State
 
 Simple meaning:
 
@@ -48,7 +48,7 @@ Think of it like: 📒 Your own notebook in your room.
 
 ------------------------------------------------------------------------
 
-## @StateObject
+# @StateObject
 
 Simple meaning:
 
@@ -70,7 +70,7 @@ manager.
 
 ------------------------------------------------------------------------
 
-## @ObservedObject
+# @ObservedObject
 
 Simple meaning:
 
@@ -90,7 +90,7 @@ show. You're just watching it.
 
 ------------------------------------------------------------------------
 
-## @Binding
+# @Binding
 
 Simple meaning:
 
@@ -121,7 +121,7 @@ You don't own the TV. But you can change the channel.
 
 ------------------------------------------------------------------------
 
-## Quick Ownership Table
+# Quick Ownership Table
 
   Thing             Owns Data?        Shared?
   ----------------- ----------------- -----------
